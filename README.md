@@ -17,6 +17,8 @@ After that you will get the Token.
 
 You should set password for communication in configuration dialog. After this start the adapter.
 
+In the Telegram App you click on the Link provided by @BotFather to create your chat bot in the telegram phone App. The Link is in the text above after "you find it at "telegram/me<your username>".
+	
 To start a conversation with your bot you need to authenticate user with `/password phrase`, where **`phrase`** is your configured password. So open a new conversation with your generated Bot in Telegram and then you need to enter the passwort as first command.
 
 **Note:** you can use short form `/p phrase`.
